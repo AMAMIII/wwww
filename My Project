@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> <h1>My Resume</h1>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Summary</h2>
+    <hr />
+    <h2>Education</h2>
+    <p>
+    <ul><li>Bangkok Unviersity, English Major </p></li></ul>
+
+    <hr/>
+    <h2>Work Experince</h2>
+    <ul><li>I have no past work experince at all</ul></li>
+    <hr/>
+    <h2>Skills</h2>
+    <ul><li>I also have no skills at all!</li></ul>
+    <hr/>
+    <h2>Awards</h2>
+    <ul><li>If there's any more stupid questions, I'd kill myself !</li></ul>
+    <hr/>
+    <p>
+        <h1>This is my photo!</h1> 
+        <p>
+        (I always want to be a cat !)</p>
+    <img src="/cutecat.jpg">
+    <footer>
+        <p>© 2018 Cat Mii</p>
+    </footer>
+    
+</body>
+</html>
